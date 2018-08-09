@@ -1,0 +1,23 @@
+body {
+    display: flex;
+    background-color: lightgray;
+    justify-content: center;
+    flex-wrap: wrap;
+}
+nav {
+    width: 100%;
+    height: 20vh;
+    background-color: #292929;
+}
+mainContainer {
+    width: 70%;
+    height: 70vh;
+    justify-content: space-around;
+    background-color: white;
+
+}
+footer {
+    width: 70%;
+    height: 10vh;
+    background-color: #292929;
+}
