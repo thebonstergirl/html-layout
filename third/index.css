@@ -1,0 +1,38 @@
+body{
+    display: flex;
+    align-content: stretch;
+    flex-direction: column;
+}
+
+div{
+    min-width: auto;
+    min-height: 10vh;
+    max-height: 30vh;
+
+}
+
+.class1{
+    background-color: rgb(216, 216, 216);
+}
+.class2{
+    background-color: white;
+    height: 30vh;
+}
+.class3{
+    background-color: cornflowerblue;
+}
+.class4{
+    background-color: aquamarine;
+}
+.class5{
+    background-color: rgb(184, 233, 134);
+}
+.class6{
+    background-color: rgb(248, 231, 28);
+}
+p{
+    font-family: Calibri, 'Trebuchet MS', sans-serif;
+    text-align: justify;
+    font-size: 1.1em;
+    margin:5vh;
+}
